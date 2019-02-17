@@ -17,4 +17,4 @@ EXPOSE 80
 ENV NAME World
 
 # Run ray_tracer.py when the container launches
-CMD ["python", "ray_tracer.py"]
+CMD ["python"]
